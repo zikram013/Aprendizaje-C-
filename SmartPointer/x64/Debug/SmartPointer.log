@@ -1,0 +1,3 @@
+﻿  SmartPointersCpp.cpp
+C:\Users\exmmsh\OneDrive - gmv.com\Desktop\PrimerosPasos\SmartPointerts\SmartPointer\SmartPointersCpp.cpp(591,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  SmartPointer.vcxproj -> C:\Users\exmmsh\OneDrive - gmv.com\Desktop\PrimerosPasos\SmartPointerts\SmartPointer\x64\Debug\SmartPointer.exe
